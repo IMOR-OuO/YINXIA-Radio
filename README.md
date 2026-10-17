@@ -50,7 +50,7 @@ Android 8.0 及以上，支持手机横竖屏、平板、实体键盘和蓝牙�
 
 ## 参与贡献
 
-欢迎提交 Issue 和 Pull Request。请勿提交无授权音频或涉及隐私的内容。
+欢迎提交 Issue 和 Pull Request。
 
 ## 许可证
 
