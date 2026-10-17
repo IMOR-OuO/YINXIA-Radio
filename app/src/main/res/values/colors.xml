@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="soundbox_background">#181818</color>
+    <color name="soundbox_topbar">#202020</color>
+    <color name="ic_launcher_background">#2A3440</color>
+</resources>
