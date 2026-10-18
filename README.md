@@ -30,6 +30,10 @@
 - Android 8.0（API 26）及以上
 - APK 不含 Demo 音频，请自行导入
 
+| 其他下载方式 | 链接 |
+| ---- | ---- |
+| 123网盘 | [前往](https://1832870546.share.123pan.cn/123pan/kMWdTd-jb1Xh) |
+
 ## 构建
 
 需要 JDK 17 和 Android SDK 36。
