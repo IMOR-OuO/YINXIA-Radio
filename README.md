@@ -30,12 +30,10 @@
 - Android 8.0（API 26）及以上
 - APK 不含 Demo 音频，请自行导入
 
-<!--
 | 其他下载方式 | 链接 |
 | ---- | ---- |
 | 123网盘 | [前往](https://1832870546.share.123pan.cn/123pan/kMWdTd-jb1Xh) |
- 再找找
--->
+| 百度网盘 | [前往](https://pan.baidu.com/s/1Vz_nrB6OHCzdyLIwZXNmPQ?pwd=s2a0) |
 
 ## 构建
 
